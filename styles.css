@@ -107,3 +107,9 @@ h4{
     font-size: 27px;
     margin-bottom: 10em;
 }
+
+@media (max-width: 425px) {
+    .git {
+        font-size: 14px;
+    }
+}
