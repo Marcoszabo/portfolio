@@ -45,7 +45,7 @@ header {
     opacity: 1;
     background-image: radial-gradient(#c991f7 1.3px, #f3f3f3 1.3px);
     background-size: 26px 26px;
-    border-radius: 1em;
+    border-radius: 5px;
     background-color: rgb(221, 209, 253) !important;
     margin-left: 50px;
     margin-right: 50px;
